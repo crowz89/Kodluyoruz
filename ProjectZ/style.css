@@ -1,0 +1,52 @@
+body{
+background: linear-gradient(68.6deg, rgb(252, 165, 241) 1.8%, rgb(181, 255, 255) 100.5%);
+font-family: monospace;
+}
+h1 {
+    color: #f70776
+}
+nav {
+    align:center;
+}
+.nav-table {
+        padding:auto;
+        letter-spacing: 7px;
+   border-spacing: 20px;
+   text-transform: uppercase;
+    
+}
+a {
+    text-decoration: none;
+    font-size: 1.25em;
+
+}
+a:hover {
+    text-decoration:underline;
+    font-weight: bolder;
+}
+#parag
+{
+
+margin-left: auto;
+margin-right: auto;
+width: 70em;
+}
+.urun {
+    text-align: center;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.p_button {
+    margin-left:5cm;
+    margin-right:1cm;
+    margin-bottom: 2cm;
+}
+.product-table {
+    border-spacing: 30px;
+}
+#pattis{
+    margin-right:20cm;
+}
+#foto{
+    margin-right:7cm;
+}
