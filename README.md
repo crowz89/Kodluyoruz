@@ -1,2 +1,2 @@
 # Kodluyoruz
- İlk web sayfam
+ First Page
